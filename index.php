@@ -13,7 +13,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Carl</title>
+<title>Classificados gemeosanuncia.com - Anúncios Classificados Grátis no Brasil: Carros, Motos, Casas, Apartamentos e outros produtos.</title>
 <link rel="stylesheet" href="css/estilo.css" />
 <script language="javascript">
 function mostraDiv(){
